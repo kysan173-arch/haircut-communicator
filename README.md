@@ -56,13 +56,13 @@
 装到 WorkBuddy 的 skills 目录：
 
 ```bash
-git clone https://github.com/kysan173-arch/更适合中国宝宝体质的理发沟通转换器.git \
+git clone https://github.com/kysan173-arch/haircut-communicator.git \
   ~/.workbuddy/skills/hair-terminology-translator
 ```
 
 然后在对话里描述剪发需求即可，Skill 会自动触发。
 
-> 终端对中文路径不友好时，用仓库页面的 Clone 按钮复制地址，或改用 SSH。
+> 仓库 slug 是英文（GitHub 不支持中文仓库名），中文名保留在仓库描述和本标题里。
 
 ---
 
